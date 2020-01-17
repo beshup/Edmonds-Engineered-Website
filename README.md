@@ -1,3 +1,7 @@
+MIGRATED ALREADY EXISTING WEBSITE CODE ONTO REACT FRAMEWORK ALLOWING FOR SCALABILITY IN THE FUTURE
+
+==================================================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
