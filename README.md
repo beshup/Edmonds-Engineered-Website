@@ -1,4 +1,4 @@
-##Edmonds Engineered Website
+# Edmonds Engineered Website
 
 Website is a scrollview with multiple horizontal pages.
 Pages are:
